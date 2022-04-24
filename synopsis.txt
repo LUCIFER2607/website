@@ -1,0 +1,14 @@
+Submission Date (23-4-2022)
+Project Synopsis (Abstraction about the project)
+
+Points
+
+1.Project Title
+2.Project Logo
+3. Projecct Duration
+4.Introduction
+5.Aim and Objective
+6.Technical specification
+7.Project feature
+8.Project Module
+9.Current Status of the project

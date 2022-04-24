@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Poppins:wght@300;400;600&family=Ubuntu:wght@300&display=swap');
+
+
+footer{
+    background-color: black;
+    height: 30vh;
+    width:100vw;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+}
+.footer-content{
+    color: white;
+    text-align: center;
+} 
+.socials ul a:hover{
+   border-bottom: 2px solid crimson ;
+}
+.socials ul li a {
+    font-size: 1.3rem;
+    position: relative;
+    
+
+}
+

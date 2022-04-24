@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Poppins:wght@300;400;600&family=Ubuntu:wght@300&display=swap');
+
+body{
+    background-color: #161b25;
+}
+
+.header{
+    margin: 0;
+padding: 0;
+height: 10vh;
+width: 100vw;
+
+}
+
+.container{
+
+}
+
+.image{
+    position: relative;
+    height: 20vh;
+    width: 20vw;
+    left: 5%;
+    top: 30%;
+    
+}
+h6{
+color: white;
+font-size: 15px;
+font-family: 'Barlow Condensed', sans-serif;
+display: flex;
+border: 1px solid white;
+}
+ 
+
+.image2{
+    position: relative;
+    height: 20vh;
+    width: 20vw;
+    left: 29%;
+    bottom: 20vh;
+  }
+  
+  .image3{
+    position: relative;
+    height: 20vh;
+    width: 20vw;
+    left: 53%;
+    bottom: 40vh;
+  }
+
+.image4{
+    position: relative;
+    height: 20vh;
+    width: 20vw;
+    left: 77%;
+    bottom: 60vh;
+  }
+
+.box1{
+  border: 1px solid black;
+  background-color: black;
+  height: 35px;
+}
+ul{
+    float: left;
+    color: white;
+}
+ul li{
+    margin-top: -10px;
+    float: left;
+    position: relative;
+    left: 473%;
+    width: 100px;
+    font-size: 15px;
+    font-family: 'Barlow Condensed', sans-serif;
+    list-style-type: none;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+ul li a:hover{
+    font-weight: bold;
+}
+span {
+    content: "\20B9";
+  } 
+  /* h5{
+      margin-top: 1px;
+      color: white;
+      margin: 7px 12px;
+      position: relative;
+      left: -18%;
+      font-family: 'Barlow Condensed', sans-serif;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: normal;
+  } */
+  .subbox{
+      border: 1px solid transparent;
+      background-color: whitesmoke;
+      height: 50px;
+  }
+  ol{
+      float: left;
+  }
+  ol li{
+      float: left;
+      width: 8.8vw;
+      position: relative;
+      left: 69vw;
+      list-style-type: none;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 18px;
+  }
+  ol li a{
+      text-decoration: none;
+      color: black;
+
+  }
+  ol li a:hover{
+      border-bottom: 4px solid red;
+  }
+  
+font{
+    color: red;
+}
+
+form input[type="submit"]{
+    position: absolute;
+    top: 330%;
+    padding: 10px;
+   text-transform: uppercase;
+   background-color: white;
+   border: none;
+   color: black;
+   font-family: 'Barlow Condensed', sans-serif;
+   letter-spacing: 1px;
+   right: 52%;
+}
+form input[type="submit"]:hover{
+   cursor: pointer;
+  font-weight: bold;
+  border: 1px solid black
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Poppins:wght@300;400;600&family=Ubuntu:wght@300&display=swap');
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 20vh;
+    width: 100vw;
+}
+footer p{
+    min-height: 10vh;
+    min-width: 110vw;
+    text-align: center;
+    position: relative;
+    margin-top: 1vh;
+}
